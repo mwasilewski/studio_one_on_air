@@ -17,5 +17,10 @@ To make it work you need to go to Studio One Preferences -> External Devices and
 Presonus is sending midi note when recording starts or stops.
 
 The case I 3d printed from https://www.thingiverse.com/thing:1506862
-After sanding and priming it looks really good.
+After sanding and painting it looks really good.
  
+![on air](on_air_1.png?raw=true)
+![on air](on_air_2.jpeg?raw=true)
+![on air](on_air_3.png?raw=true)
+
+![on air](on_air.mov?raw=true)
