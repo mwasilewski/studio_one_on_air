@@ -23,4 +23,5 @@ After sanding and painting it looks really good.
 ![on air](on_air_2.jpeg?raw=true)
 ![on air](on_air_3.png?raw=true)
 
-![on air](on_air.mov?raw=true)
+
+[![on air](https://img.youtube.com/vi/lTTUIYneBKc/0.jpg)](https://www.youtube.com/watch?v=lTTUIYneBKc)
